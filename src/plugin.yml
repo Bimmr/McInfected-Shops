@@ -1,0 +1,6 @@
+name: McInfected-Shops
+description: Shops for McInfected
+main: me.bimmr.mcinfectedshops.McInfectedShops
+version: 0.0.5
+author: Bimmr
+depend: [McInfected]
